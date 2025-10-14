@@ -4,8 +4,6 @@ date = 2025-10-14T06:44:40+02:00
 draft = false
 +++
 
-# Introduction
-
 Hi I'm Thijs and I'm a technical consultant for a managed security services provider. My daily activities are centered around Microsoft Security products and services, however I am more of a GNU/Linux guy. I have experience building software in Python and Go, and frequently find myself condemning PowerShell scripts and ARM templates.
 
 Why another blog I hear you thinking? No, I'm not trying to become a Microsoft MVP. It's just too many times that I find myself missing a specific piece of information on the web. Or if I find it, it's targeted to PowerShell fanatics. Which I am not. 
